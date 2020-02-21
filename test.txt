@@ -1,6 +1,0 @@
-	This is a git test file!!
-Added this version
-addd
-adddd1
-add from master1
-some additions!
