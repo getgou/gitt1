@@ -2,3 +2,4 @@ Another version!
 add one1
 add two
 from branch master
+From branch topic
